@@ -32,9 +32,14 @@ En conclusion, l'implémentation combinée a produit les meilleurs résultats, a
   l'implémentation combinée de l'agent de jeu de paddle utilisant l'algorithme PPO se démarque en produisant les meilleurs résultats. En combinant l'approche normale et le self-play compétitif, l'agent parvient à frapper la balle de manière fiable, tout en conservant des mouvements intéressants et compétitifs. Cette approche hybride démontre l'importance de combiner différentes techniques pour maximiser les performances des agents de jeu.
   
 ## 5. Références :
-1-https://openai.com/research/openai-baselines-ppo
+1-https://openai.com/research/openai-baselines-ppo 
+
 2-https://openai.com/research/competitive-self-play
+
 3-Introduction to ML-Agents in Unity and Virtual Environments(Video Youtube)
+
 4-https://github.com/Unity-Technologies/ml-agents
+
 5-https://thomassimonini.medium.com/an-introduction-to-unity-ml-agents-with-hugging-face-efbac62c8c80
+
 6-https://www.youtube.com/watch?v=6WcBis699zI

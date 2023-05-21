@@ -28,5 +28,5 @@
   La durée des épisodes a augmenté constamment.
 En conclusion, l'implémentation combinée a produit les meilleurs résultats, avec un agent capable de frapper la balle de manière plus fiable et compétitive tout en conservant des mouvements intéressants. Vous pouvez trouver les détails de chaque implémentation dans notre Repositories
 
-## 4. En Conclusion
+## 4. Conclusion
   l'implémentation combinée de l'agent de jeu de paddle utilisant l'algorithme PPO se démarque en produisant les meilleurs résultats. En combinant l'approche normale et le self-play compétitif, l'agent parvient à frapper la balle de manière fiable, tout en conservant des mouvements intéressants et compétitifs. Cette approche hybride démontre l'importance de combiner différentes techniques pour maximiser les performances des agents de jeu.
